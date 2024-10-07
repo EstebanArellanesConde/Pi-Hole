@@ -1,2 +1,2 @@
 # Pi-Hole
-Pi-Hole WSL
+Pi-Hole-for-WSL1-master
